@@ -84,4 +84,4 @@ RUN pip3 install -U \
     duckietown-world-daffy \
     tqdm \
     ipywidgets \
-    ruamel.yaml=0.16.0
+    ruamel.yaml==0.16.0
